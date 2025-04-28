@@ -1,3 +1,2 @@
-# Code for mario.c
-Objective: Implement a program in C that recreates that pyramid, using hashes (#) for bricks.
-Prompt the user for an int for the pyramid’s actual height and re-prompt the user, again and again as needed, if their input is not greater than 0 or not an int altogether.
+# mario.c code solution for CS50x's week 1 problem set
+
